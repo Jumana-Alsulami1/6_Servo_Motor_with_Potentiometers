@@ -28,3 +28,9 @@ The servo motors with the Arduino:
 Write the Arduino Code.
 
 output:
+![Screenshot 2024-08-02 232346](https://github.com/user-attachments/assets/8311ff01-c990-49b0-9ec4-aae58f8fcc12)
+
+![Screenshot 2024-08-02 232403](https://github.com/user-attachments/assets/7ec6ce15-6d4a-44c0-8495-080c61f2ceba)
+
+
+
