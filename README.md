@@ -1,7 +1,5 @@
 # 6_Servo_Motor_with_Potentiometers
 
-6 Servo Motor with Potentiometers
-
 This task involves the control of six servo motors using six potentiometers. 
 
 
