@@ -31,9 +31,9 @@ Output:
 
 ![Screenshot 2024-08-02 232403](https://github.com/user-attachments/assets/7ec6ce15-6d4a-44c0-8495-080c61f2ceba)
 
+This task involves the control of one servo motor using single potentiometers. 
 
 https://github.com/user-attachments/assets/c40cb6ff-51f9-4ec5-8692-d7c9087f0a80
 
-
-
+![WhatsApp Image 2024-08-02 at 23 44 34_a975032d](https://github.com/user-attachments/assets/51d5a0f6-7543-4ed9-b0e8-d916f8f94feb)
 
